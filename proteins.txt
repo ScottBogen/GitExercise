@@ -4,4 +4,3 @@ Hemoglobin-a	Human	HBA_HUMAN	P93421
 Hemoglobin-b	Human	HBB_HUMAN	P14824
 PFKM		Human	PFKAM_HUMAN	P08912
 Pfkm		Mouse	PFKAM_MOUSE	P18233
-I clearly wish to undo this
